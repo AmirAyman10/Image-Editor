@@ -18,6 +18,7 @@ How to Use:
 - Use the sliders to adjust Saturate, Contrast, Brightness, Sepia, Grayscale, Blur, and Hue Rotate.
 
 How to Run:
+
 1- Clone the repository.
 2- Open the index.html file in your browser.
 3- Upload an image and start editing!
